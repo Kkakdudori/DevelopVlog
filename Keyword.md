@@ -1,2 +1,69 @@
 # 키워드 정리
-- 사과
+- CPU 와 GPU의 차이
+- 소프트웨어 정의
+- 소프트웨어 특성
+- 소프트웨어 위기
+- SDLC
+- 다형성
+- 가상화
+- 추상화
+- CBD (Component Based Development)
+- 결합도
+- 코드 스멜
+- 리팩토링
+- Validation
+- Verification
+- 추상클래스
+- 인터페이스
+- 유즈케이스 다이어그램
+- 클래스 다이어그램
+- 시퀀스 다이어그램
+- .lib(Static Library)
+- DLL
+- PC (Program Counter)
+- IR (Instruction Register)
+- AC (Accumulator)
+- MAR (Memory Adress Register)
+- MBR (Memory Buffer Register)
+- ALU
+- Decorder
+- Shifter
+- Adress Bus
+- Data Bud
+- Control Bus
+- 명령어 사이클
+- 인출 사이클
+- 간접 사이클
+- 실행 사이클
+- 인터럽트 사이클
+- 캐시 메모리
+- 캐시 메모리 지역성
+- 캐시 메모리 일관성
+- 캐시 메모리 매핑
+- 가상 메모리
+- 가상 메모리 관리정책
+- 가상 메모리 페이징
+- 가상 메모리 세그먼테이션
+- 가상 메모리 페이지드 세그멘테이션
+- Trashing
+- 메모리 인터리빙
+- 메모리 단편화
+- 메모리 단편화 - 내부
+- 메모리 단편화 - 외부
+- 메모리 단편화 - 압축
+- 메모리 단편화 - 메모리 풀
+- 가비지 컬렉션
+- 컴파일러
+- 인터프리터
+- 컴파일러 Vs 인터프리터
+- GPU
+- GPGPU
+- CPU vs GPU
+- CUDA
+- RAM vs VRAM
+- Compute Shader
+- 프로세스
+- 프로세스 메모리 영역
+- 코드 영역
+- 데이터 영역
+- 힙 영역
